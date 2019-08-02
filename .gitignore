@@ -1,0 +1,6 @@
+#Omitir las rutas
+node_modules/
+# public/uploads/cv/*
+# public/uploads/perfiles/*
+package-lock.json
+variables.env
